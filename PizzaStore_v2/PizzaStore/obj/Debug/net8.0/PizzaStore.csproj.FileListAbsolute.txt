@@ -1,0 +1,262 @@
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.AssemblyReference.cache
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.AssemblyInfoInputs.cache
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.AssemblyInfo.cs
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.CoreCompileInputs.cache
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\appsettings.Development.json
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\appsettings.json
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\PizzaStore.staticwebassets.endpoints.json
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\PizzaStore.exe
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\PizzaStore.deps.json
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\PizzaStore.runtimeconfig.json
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\PizzaStore.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\PizzaStore.pdb
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\scopedcss\bundle\PizzaStore.styles.css
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\staticwebassets.build.json
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\staticwebassets.development.json
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.PizzaStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.PizzaStore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.build.PizzaStore.props
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PizzaStore.props
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PizzaStore.props
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.Up2Date
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\refint\PizzaStore.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.pdb
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.genruntimeconfig.cache
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\ref\PizzaStore.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Humanizer.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\System.CodeDom.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Proyectos\c# Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\appsettings.Development.json
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\appsettings.json
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\PizzaStore.staticwebassets.endpoints.json
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\PizzaStore.exe
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\PizzaStore.deps.json
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\PizzaStore.runtimeconfig.json
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\PizzaStore.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\PizzaStore.pdb
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Humanizer.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\System.CodeDom.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.AssemblyReference.cache
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.AssemblyInfoInputs.cache
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.AssemblyInfo.cs
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.CoreCompileInputs.cache
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\scopedcss\bundle\PizzaStore.styles.css
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\staticwebassets.build.json
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\staticwebassets.development.json
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.PizzaStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.PizzaStore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.build.PizzaStore.props
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PizzaStore.props
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PizzaStore.props
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.Up2Date
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\refint\PizzaStore.dll
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.pdb
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\PizzaStore.genruntimeconfig.cache
+D:\Proyectos\Net_Fundation\PizzaStore_v2\PizzaStore\obj\Debug\net8.0\ref\PizzaStore.dll
